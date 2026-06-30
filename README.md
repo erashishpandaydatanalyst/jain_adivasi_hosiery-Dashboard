@@ -35,3 +35,6 @@ Develop an interactive Power BI dashboard to track key business KPIs, analyze sa
 * Analyzed customer payment preferences (COD, UPI, Debit/Credit Card, EMI) to optimize payment options.
 * Reduced manual reporting efforts and improved decision-making through interactive dashboards and automated insights.
 
+## **Screenshot** 
+
+Dashboard Review : (https://github.com/erashishpandaydatanalyst/jain_adivasi_hosiery-Dashboard/blob/main/DJain_adiwasi_dashboard.png)
